@@ -1,0 +1,6 @@
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\DataAccess\bin\Debug\DataAccess.dll
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\DataAccess\bin\Debug\DataAccess.pdb
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\DataAccess\obj\Debug\DataAccess.dll
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\DataAccess\obj\Debug\DataAccess.pdb
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

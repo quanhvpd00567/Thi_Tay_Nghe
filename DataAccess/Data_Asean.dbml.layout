@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.5, 21.75" name="Data_Asean">
+  <DataContextMoniker Name="/Data_AseanDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a0c81d0c-bc5c-43ca-8001-65e84d1a6100" absoluteBounds="3.5, 16.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Data_AseanDataContext/Charity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0be74f87-1467-44fe-856b-d6a0dd97ae69" absoluteBounds="3.515, 17.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="97d5f302-c379-4b8c-880e-2bafbcfb34ed" absoluteBounds="0.75, 4.875, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/Data_AseanDataContext/Country" />
+      <nestedChildShapes>
+        <elementListCompartment Id="baefb83b-ba48-4aba-925e-54ac5097b03c" absoluteBounds="0.765, 5.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c23197c8-59a4-4474-b57f-7234be79b6d6" absoluteBounds="3.5, 19, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/Data_AseanDataContext/EventType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d9a0dece-38bb-4321-9b8c-7b1173851b6b" absoluteBounds="3.515, 19.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7ad740b7-1528-4555-8d93-00418facb748" absoluteBounds="6.25, 4.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/Data_AseanDataContext/Event" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ce594c87-b31b-4469-af9a-08bdc9d06131" absoluteBounds="6.265, 4.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="694ee678-961c-4947-914b-dc33b8e9c04a" absoluteBounds="0.75, 2.25, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/Data_AseanDataContext/Gender" />
+      <nestedChildShapes>
+        <elementListCompartment Id="011c68c4-6774-456b-8247-582589d2b74f" absoluteBounds="0.765, 2.71, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9db5e2f1-f893-4de3-8d92-65b94e7d4143" absoluteBounds="3.5, 4.625, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/Data_AseanDataContext/Marathon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d7f10300-bde1-4191-a426-c282e19729e7" absoluteBounds="3.515, 5.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="67aec4df-f541-4d6f-ab5d-64abc9817257" absoluteBounds="6.75, 8.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Data_AseanDataContext/Position" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a8a53b82-7e9d-4843-bb39-b8730ec8f367" absoluteBounds="6.765, 9.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f6a7cdfe-c998-4a4f-98a1-1660d2e1421c" absoluteBounds="11.75, 1.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Data_AseanDataContext/marathon_skills_2015_staff_import" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f03d55e9-9c8f-4036-bad6-293cbf7c7beb" absoluteBounds="11.765, 1.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="65ce941e-f821-4a78-a6ff-7c33f4d275c7" absoluteBounds="3.5, 14.375, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/Data_AseanDataContext/RaceKitOption" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4676c569-3c73-47a8-aec8-5390ebc89529" absoluteBounds="3.515, 14.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7ccb5c1c-750a-4802-9573-da27ee6a993c" absoluteBounds="9, 3.125, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/Data_AseanDataContext/RegistrationEvent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="238dcf69-a35d-43c2-8df5-4cfc172d22f3" absoluteBounds="9.015, 3.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="52f1c7a6-cc70-416c-8554-1b6d654975e9" absoluteBounds="6.25, 1.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/Data_AseanDataContext/Registration" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5fb250dc-620d-4f83-9b06-183b0d4c6060" absoluteBounds="6.265, 1.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b11e6278-e615-4121-aa26-bb74acc54566" absoluteBounds="3.5, 1.625, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/Data_AseanDataContext/Runner" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da86a031-203d-4d55-9b7d-897d72605fad" absoluteBounds="3.515, 2.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c5367d7f-bd6c-4ead-b4f6-d59cbaecd9b1" absoluteBounds="9, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Data_AseanDataContext/Sponsorship" />
+      <nestedChildShapes>
+        <elementListCompartment Id="61c565d9-0d17-4600-8ffc-09de8609e745" absoluteBounds="9.015, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c5d80dfd-8b69-499a-91e2-2cd35447bb6f" absoluteBounds="1.5, 10.375, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/Data_AseanDataContext/Role" />
+      <nestedChildShapes>
+        <elementListCompartment Id="561a5a84-a7ce-42fb-93ad-fd7b2cd7734b" absoluteBounds="1.5150000000000001, 10.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f956fd3d-ad7e-4eb5-b9e6-ed4c82f6aa02" absoluteBounds="3.5, 12.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/Data_AseanDataContext/RegistrationStatus" />
+      <nestedChildShapes>
+        <elementListCompartment Id="35de8380-d324-4432-b6f9-dfc64743d4ce" absoluteBounds="3.515, 12.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="632b9b87-7865-44df-993e-28fcd76fbd6a" absoluteBounds="9.5, 8.375, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/Data_AseanDataContext/Staff" />
+      <nestedChildShapes>
+        <elementListCompartment Id="07736d7b-6f7f-40ce-9c98-1537ae322b82" absoluteBounds="9.515, 8.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa5667d3-344a-4fd9-8ab0-57d9acaabee7" absoluteBounds="12.25, 8.625, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/Data_AseanDataContext/Timesheet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dd95f98f-dad0-4cad-ad41-882d604dd2a0" absoluteBounds="12.265, 9.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fc62d14c-ea6b-4db5-9749-e26852109e2c" absoluteBounds="0.75, 7, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/Data_AseanDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0715b6cb-c3f2-4db6-90bb-4432fc6c12c3" absoluteBounds="0.765, 7.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7df03c1a-eaf4-4fa9-b1a0-9a2822dab0e7" absoluteBounds="3.5, 7.625, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/Data_AseanDataContext/Volunteer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="deb2db20-1fde-4681-ac72-76ab1c545b52" absoluteBounds="3.515, 8.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 19.5969962565104); (6.46875 : 19.5969962565104); (6.46875 : 6.65549967447917)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/EventType/EventType_Event" />
+      <nodes>
+        <classShapeMoniker Id="c23197c8-59a4-4474-b57f-7234be79b6d6" />
+        <classShapeMoniker Id="7ad740b7-1528-4555-8d93-00418facb748" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.51044840494792); (6.25 : 5.51044840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Marathon/Marathon_Event" />
+      <nodes>
+        <classShapeMoniker Id="9db5e2f1-f893-4de3-8d92-65b94e7d4143" />
+        <classShapeMoniker Id="7ad740b7-1528-4555-8d93-00418facb748" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.56814697265625); (3.13541666666667 : 5.56814697265625 : JumpStart); (3.39583333333333 : 5.56814697265625 : JumpEnd); (3.5 : 5.56814697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Country/Country_Marathon" />
+      <nodes>
+        <classShapeMoniker Id="97d5f302-c379-4b8c-880e-2bafbcfb34ed" />
+        <classShapeMoniker Id="9db5e2f1-f893-4de3-8d92-65b94e7d4143" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 4.69794840494792); (9 : 4.69794840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Event/Event_RegistrationEvent" />
+      <nodes>
+        <classShapeMoniker Id="7ad740b7-1528-4555-8d93-00418facb748" />
+        <classShapeMoniker Id="7ccb5c1c-750a-4802-9573-da27ee6a993c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 3.42390055338542); (9 : 3.42390055338542)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Registration/Registration_RegistrationEvent" />
+      <nodes>
+        <classShapeMoniker Id="52f1c7a6-cc70-416c-8554-1b6d654975e9" />
+        <classShapeMoniker Id="7ccb5c1c-750a-4802-9573-da27ee6a993c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 16.625); (5.875 : 16.25); (5.875 : 2.54890055338542); (5.88541666666667 : 2.54890055338542 : JumpStart); (6.05208333333333 : 2.54890055338542 : JumpEnd); (6.25 : 2.54890055338542)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Charity/Charity_Registration" />
+      <nodes>
+        <classShapeMoniker Id="a0c81d0c-bc5c-43ca-8001-65e84d1a6100" />
+        <classShapeMoniker Id="52f1c7a6-cc70-416c-8554-1b6d654975e9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 14.4368490375601); (6.0625 : 13.8743490375601); (6.0625 : 3.16710283007812); (6.25 : 3.16710283007812)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/RaceKitOption/RaceKitOption_Registration" />
+      <nodes>
+        <classShapeMoniker Id="65ce941e-f821-4a78-a6ff-7c33f4d275c7" />
+        <classShapeMoniker Id="52f1c7a6-cc70-416c-8554-1b6d654975e9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.02445027669271); (6.25 : 2.02445027669271)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Runner/Runner_Registration" />
+      <nodes>
+        <classShapeMoniker Id="b11e6278-e615-4121-aa26-bb74acc54566" />
+        <classShapeMoniker Id="52f1c7a6-cc70-416c-8554-1b6d654975e9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.875); (3.125 : 4.5); (3.125 : 3.80086483283253); (3.5299680229367 : 3.39589680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Country/Country_Runner" />
+      <nodes>
+        <classShapeMoniker Id="97d5f302-c379-4b8c-880e-2bafbcfb34ed" />
+        <classShapeMoniker Id="b11e6278-e615-4121-aa26-bb74acc54566" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.75084554036458); (3.5 : 2.75084554036458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Data_AseanDataContext/Gender/Gender_Runner" />
+      <nodes>
+        <classShapeMoniker Id="694ee678-961c-4947-914b-dc33b8e9c04a" />
+        <classShapeMoniker Id="b11e6278-e615-4121-aa26-bb74acc54566" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 1.85179768880208); (9 : 1.85179768880208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Registration/Registration_Sponsorship" />
+      <nodes>
+        <classShapeMoniker Id="52f1c7a6-cc70-416c-8554-1b6d654975e9" />
+        <classShapeMoniker Id="c5367d7f-bd6c-4ead-b4f6-d59cbaecd9b1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 12.5312264964944); (5.96875 : 12.0624764964944); (5.96875 : 1.66847313834635); (6.25 : 1.66847313834635)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/RegistrationStatus/RegistrationStatus_Registration" />
+      <nodes>
+        <classShapeMoniker Id="f956fd3d-ad7e-4eb5-b9e6-ed4c82f6aa02" />
+        <classShapeMoniker Id="52f1c7a6-cc70-416c-8554-1b6d654975e9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 9.41429768880208); (9.5 : 9.41429768880208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Position/Position_Staff" />
+      <nodes>
+        <classShapeMoniker Id="67aec4df-f541-4d6f-ab5d-64abc9817257" />
+        <classShapeMoniker Id="632b9b87-7865-44df-993e-28fcd76fbd6a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.5 : 9.51044840494792); (12.25 : 9.51044840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Staff/Staff_Timesheet" />
+      <nodes>
+        <classShapeMoniker Id="632b9b87-7865-44df-993e-28fcd76fbd6a" />
+        <classShapeMoniker Id="fa5667d3-344a-4fd9-8ab0-57d9acaabee7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.0612992741887); (3.15982443490112 : 6.65147483928758 : JumpStart); (3.27767556509888 : 6.53362370908982 : JumpEnd); (3.3125 : 6.4987992741887); (3.3125 : 3.55479001527444); (3.5 : 3.36729001527444)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/User/User_Runner" />
+      <nodes>
+        <classShapeMoniker Id="fc62d14c-ea6b-4db5-9749-e26852109e2c" />
+        <classShapeMoniker Id="b11e6278-e615-4121-aa26-bb74acc54566" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.125 : 10.375); (2.125 : 8.77089680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Data_AseanDataContext/Role/Role_User" />
+      <nodes>
+        <classShapeMoniker Id="c5d80dfd-8b69-499a-91e2-2cd35447bb6f" />
+        <classShapeMoniker Id="fc62d14c-ea6b-4db5-9749-e26852109e2c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.2612939453125); (3.125 : 6.6362939453125); (3.125 : 8.51044840494792); (3.5 : 8.51044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Data_AseanDataContext/Country/Country_Volunteer" />
+      <nodes>
+        <classShapeMoniker Id="97d5f302-c379-4b8c-880e-2bafbcfb34ed" />
+        <classShapeMoniker Id="7df03c1a-eaf4-4fa9-b1a0-9a2822dab0e7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.22086881670673); (3.21875 : 3.68961881670673); (3.21875 : 8.03647220247396); (3.5 : 8.03647220247396)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Data_AseanDataContext/Gender/Gender_Volunteer" />
+      <nodes>
+        <classShapeMoniker Id="694ee678-961c-4947-914b-dc33b8e9c04a" />
+        <classShapeMoniker Id="7df03c1a-eaf4-4fa9-b1a0-9a2822dab0e7" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="2cd50476-d679-4cf4-9ec1-0966f3c52880" absoluteBounds="0.5, 14, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Data_AseanDataContext/View1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3f3482d4-263f-42e3-9196-b7932b434156" absoluteBounds="0.515, 14.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="35c0b633-46b2-400e-b5eb-b6e06fb62aaa" absoluteBounds="0.5, 11.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/Data_AseanDataContext/MY_RACE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="580be48c-8519-43a3-9f7c-ad79172052cf" absoluteBounds="0.515, 12.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="be954dd0-9963-4c6c-b2ac-011dd67aab86" absoluteBounds="0.5, 16.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/Data_AseanDataContext/View_1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bea3d20e-4d67-4afb-8162-67707735904e" absoluteBounds="0.51500000000000012, 16.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e5c4fdbd-225d-4e75-960b-2cd44e71ceb3" absoluteBounds="0.5, 19.375, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/Data_AseanDataContext/View_18" />
+      <nestedChildShapes>
+        <elementListCompartment Id="00033c8c-b2c1-428e-9a5e-0341eb344f81" absoluteBounds="0.51500000000000012, 19.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

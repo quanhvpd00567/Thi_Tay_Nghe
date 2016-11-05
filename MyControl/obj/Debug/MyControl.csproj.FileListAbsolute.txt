@@ -1,0 +1,7 @@
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\MyControl\bin\Debug\MyControl.dll
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\MyControl\bin\Debug\MyControl.pdb
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\MyControl\obj\Debug\MyControl.Header.resources
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\MyControl\obj\Debug\MyControl.csproj.GenerateResource.Cache
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\MyControl\obj\Debug\MyControl.dll
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\MyControl\obj\Debug\MyControl.pdb
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\MyControl\obj\Debug\MyControl.csprojResolveAssemblyReference.cache

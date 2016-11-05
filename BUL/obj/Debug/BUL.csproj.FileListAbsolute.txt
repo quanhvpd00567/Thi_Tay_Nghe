@@ -1,0 +1,7 @@
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\BUL\bin\Debug\BUL.dll
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\BUL\bin\Debug\BUL.pdb
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\BUL\obj\Debug\BUL.dll
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\BUL\obj\Debug\BUL.pdb
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\BUL\bin\Debug\DataAccess.dll
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\BUL\bin\Debug\DataAccess.pdb
+D:\Thi_Tay_Nghe\Thi_Tay_Nghe\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
